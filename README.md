@@ -6,8 +6,9 @@ This repository showcases two distinct phases of a project developed to meet dif
 
 The first phase of the project, available under [Phase 1 - Basic Gameplay](https://chess-like-game-swart.vercel.app/), was designed to fulfill the specific demands outlined in the initial project brief. This version includes all the fundamental features required for a basic, fully functional game, allowing players to engage with the core mechanics as intended. This phase demonstrates the ability to meet the project’s essential criteria effectively and on time.
 
-<img src="basic_gameplay.png" alt="Alt text" width="300"/>
-
+<div align="center">
+    <img src="basic_gameplay.png" alt="Basic Gameplay Screenshot" width="300"/>
+</div>
 
 ### Inspiration
 
