@@ -26,7 +26,4 @@ The AI gameplay was inspired by the decision-making strategies seen in tradition
 
 Each phase is documented and maintained in separate branches to ensure clarity and allow users to explore the project’s development over time. 
 
-- **Phase 1**: Basic gameplay mechanics ([branch link](https://github.com/yourusername/yourrepo/tree/phase-1)).
-- **Phase 2**: AI gameplay feature ([branch link](https://github.com/yourusername/yourrepo/tree/phase-2)).
-
 The addition of AI in the second phase represents a significant upgrade, offering users a richer and more dynamic gaming experience.
