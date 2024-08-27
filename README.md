@@ -12,7 +12,7 @@ The first phase of the project, available under [Phase 1 - Basic Gameplay](https
 
 ### Inspiration
 
-This phase takes inspiration from the traditional 8x8 chess gameplay, adapting the strategic depth and mechanics to a smaller 5x5 board while maintaining the essence of the game.
+This phase takes inspiration from the traditional 8x8 chess gameplay, adapting the strategic depth and mechanics to a smaller 5x5 board while maintaining the essence of the game. In this adaptation, the King is represented as Hero 1 and the Queen as Hero 2.
 
 ## Phase 2: Introducing AI Gameplay
 
@@ -20,7 +20,13 @@ Building upon the foundation laid in Phase 1, the second phase, accessible via [
 
 ### Note on AI Development
 
-Due to time constraints, the AI feature is not fully developed. While it introduces basic AI gameplay, further refinements are needed to achieve the desired level of sophistication. The current implementation serves as a foundation for future enhancements.
+Due to time constraints, the AI feature is not fully developed. While it introduces basic AI gameplay, further refinements are needed to achieve the desired level of sophistication. The current implementation serves as a foundation for future enhancements, and with time, the AI can be further developed to provide a more challenging experience.
+
+<div align="center">
+    <img src="start_play.png" alt="AI Gameplay Screenshot" width="300"/>
+    <img src="selecting_coin.png" alt="AI Development Progress" width="300"/>
+    <img src="killing_gameplay.png" alt="Future Enhancements" width="300"/>
+</div>
 
 ### Inspiration
 
@@ -31,3 +37,5 @@ The AI gameplay was inspired by the decision-making strategies seen in tradition
 Each phase is documented and maintained in separate branches to ensure clarity and allow users to explore the project’s development over time. 
 
 The addition of AI in the second phase represents a significant upgrade, offering users a richer and more dynamic gaming experience.
+
+The images provided above showcase the gameplay in both phases and the ongoing development of the AI feature, which, with more time, can be made fully operational.
