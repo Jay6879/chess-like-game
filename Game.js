@@ -137,10 +137,10 @@ class Game {
 
         switch (piece.rank) {
             case 'pawn':
-                moves.push(position + 1, position - 1, position + 10, position - 10);
+                moves.push(position + (piece.color === 'white' ? 10 : -10));
                 break;
             case 'king':
-                moves.push(position + 2, position - 2, position + 20, position - 20);
+                moves.push(position + 1, position - 1, position + 10, position - 10);
                 break;
             case 'queen':
                 for (let i = 1; i <= 4; i++) {
